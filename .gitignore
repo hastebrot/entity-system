@@ -1,0 +1,24 @@
+# build and platform files.
+android/
+build/
+ios/
+macos/
+web/
+
+# code editors.
+*.iml
+*.ipr
+*.iws
+.atom/
+.idea
+.vscode/
+
+# cache files.
+.DS_Store
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+doc/api/
